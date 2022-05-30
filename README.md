@@ -1,6 +1,6 @@
-![image.png](./images/avatar.png)
+a Web Developer.
 
-- 🎨 Blog [前端开发 eagle](https://www.toutiao.com/c/user/token/MS4wLjABAAAApxOm0cSDi3UFlwSmwDHu-kieIaEO6yaesGcVsd2RIgI/?source=mine_home)
+- 🎨 Blog [前端开发eagle](https://www.toutiao.com/c/user/token/MS4wLjABAAAApxOm0cSDi3UFlwSmwDHu-kieIaEO6yaesGcVsd2RIgI/?source=mine_home)
 - 🔭 I’m currently working on CloudWise
 - 🏗 Focus on Web
 - 📫 How to reach me: 1776758048@qq.com
