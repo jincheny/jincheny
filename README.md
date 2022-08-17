@@ -10,7 +10,7 @@ Hi there! I'm jincheny, a web developer.
 ## **Github Stats**
 
 <p>
-<p style="display: flex; justify-content: space-between;">
+<p style="display: flex; justify-content: space-between; align-items:center;">
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=jincheny&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=true" />
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&count_private=true&text_color=718096&layout=compact&langs_count=6&count_private=true&bg_color=ffffff" />
 </p>
