@@ -1,4 +1,4 @@
-Hi there! I'm jincheny, a Web Developer.
+Hi there! I'm jincheny, a web developer.
 
 ## **About me**
 
@@ -11,8 +11,8 @@ Hi there! I'm jincheny, a Web Developer.
 
 <p>
 <p style="display: flex; justify-content: space-between;">
-    <img height="180em" style="margin-right: 1em;" src="https://github-readme-stats.vercel.app/api?username=jincheny&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=true"></img>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&count_private=true&text_color=718096&layout=compact&langs_count=6&count_private=true&bg_color=ffffff" />
+<img height="180em" style="margin-right: 1em;" src="https://github-readme-stats.vercel.app/api?username=jincheny&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&count_private=true&text_color=718096&layout=compact&langs_count=6&count_private=true&bg_color=ffffff" />
 </p>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=jincheny&theme=react-dark&area=true&bg_color=fff&line=0969da&point=0969da&color=24292f&radius=4" />
