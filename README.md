@@ -3,7 +3,7 @@ Hi there! I'm jincheny, a web developer.
 ## **About me**
 
 - 🎨 Blog [前端开发eagle](https://www.toutiao.com/c/user/token/MS4wLjABAAAApxOm0cSDi3UFlwSmwDHu-kieIaEO6yaesGcVsd2RIgI/?source=mine_home)
-- 🔭 I’m currently working on cloudwise
+- 🔭 I’m currently working at cloudwise
 - 🏗 Focus on web
 - 📫 How to reach me: 1776758048@qq.com
 
