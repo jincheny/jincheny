@@ -3,16 +3,16 @@ Hi there! I'm jincheny, a web developer.
 ## **About me**
 
 - 🎨 Blog [前端开发eagle](https://www.toutiao.com/c/user/token/MS4wLjABAAAApxOm0cSDi3UFlwSmwDHu-kieIaEO6yaesGcVsd2RIgI/?source=mine_home)
-- 🔭 I’m currently working on CloudWise
-- 🏗 Focus on Web
+- 🔭 I’m currently working on cloudwise
+- 🏗 Focus on web
 - 📫 How to reach me: 1776758048@qq.com
 
 ## **Github Stats**
 
 <p>
 <p style="display: flex; justify-content:space-between; align-items:center;">
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=jincheny&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=true" />
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" />
+<img width="46%" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=jincheny&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=true" />
+<img width="46%" height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" />
 </p>
 <br>
 
