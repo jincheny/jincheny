@@ -11,8 +11,8 @@ Hi there! I'm jincheny, a web developer.
 
 <p>
 <p>
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=jincheny&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=false" />
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" />
+<img height="155em" align="left" src="https://github-readme-stats.vercel.app/api?username=jincheny&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=false" />
+<img height="155em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" />
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=jincheny&theme=react-dark&area=true&bg_color=fff&line=0969da&point=0969da&color=24292f&radius=4" />
