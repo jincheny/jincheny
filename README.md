@@ -15,5 +15,5 @@ Hi there! I'm jincheny, a web developer.
 <img height="145em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheny&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=jincheny&theme=react-dark&area=true&bg_color=fff&line=0969da&point=0969da&color=24292f&radius=4" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jincheny&theme=react-dark&area=true&bg_color=fff&line=0969da&point=0969da&color=24292f&radius=4" />
 </p>
